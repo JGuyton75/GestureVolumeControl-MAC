@@ -6,6 +6,6 @@ GestureVolumeControl is a hand-tracking application designed to adjust a device'
 
 This Project is derived from Murtaza's Workshop Gesture Volume Control video. Originally using Pycaw, which is not compatible with MacOS, the Osascript additon makes this possible. 
 
-![alt text](https://github.com/JGuyton75/GestureVolumeControl-MAC/tree/main/Images/carbon-2.png "Carbon 1")
+![ScreenShot](/Images/carbon-2.png "Carbon 1")
 
 [Video Demo](https://youtu.be/PK5hyKADFSA)
